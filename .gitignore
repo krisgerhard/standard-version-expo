@@ -1,6 +1,3 @@
-# project
-/build
-
 # dependencies
 /node_modules
 npm-debug.log*
